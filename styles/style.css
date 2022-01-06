@@ -1,0 +1,264 @@
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+
+h1{
+    font-size: 45px;
+}
+
+.heading{
+    font-family: 'Amatic sc';
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: -1px;
+    text-align: center;
+    color: rgba(115, 255, 0, 0.589);
+    margin-bottom: 20px;
+}
+
+
+
+.rotated{
+    writing-mode: vertical-lr;
+    font-size: 18px;
+    font-weight: normal;
+    color: rgb(47, 57, 79);
+    
+}
+
+/* first part start */
+
+.display{
+    display: flex;
+    margin-bottom: 0px;
+}
+.stay{
+    width: 503px;
+    height: 160px;
+    font-family: 'Yeseva One';
+    font-weight: 400px;
+    font-size: 60px;
+    line-height: 80px;
+    color: #333333;
+    padding-left: 8px;
+}
+.brown{
+    color: orange;
+}
+
+.background1{
+    border-image: linear-gradient( #FF5959, rgb(207, 118, 16));
+    border-image-slice: 2;
+    border-left: 4px solid;
+   
+    
+    
+}
+.half-width{
+    width: 100%;
+    padding-left: 56px;
+    padding-right: 70px;
+}
+.half-width img{
+    width: 426px;
+    height: 530px;
+    padding-left: 76px;
+    margin-bottom: 20px;
+    margin-top: -25px;
+}
+.link{
+    text-decoration: dimgray;
+    background: #FF5959;
+    padding: 07px 10px;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.897);
+    font-weight: 560;
+    margin-top: 19px;    
+}
+
+
+
+/* second part start */
+
+
+    .second-part-font{
+        text-align: center;
+        font-family: 'poppins';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 44px;
+        line-height: 55px;
+        margin-bottom: 6%;
+    }
+  
+
+    .cards{
+        width: 340px;
+        height: 360px;
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-bottom: 3%;
+        padding-top: 20px;
+        padding-left: 36px;
+        box-shadow:2px 2px 8px gray;
+        border-radius: 15px 15px 15px 15px;
+
+     }
+     
+     #card-1{
+        background-color: #4F9DA61A;
+
+     }
+     #card-2{
+        background: #FF59591A;
+
+     }
+
+     #card-3{
+        background: #FFF4D6;
+
+     }
+     .cards img{
+        width: 141px;
+        height: 141px;
+        border-radius: 10px 10px 10px 10px;
+    }
+
+
+                    /* third part start */
+
+    #third-part{
+        
+        margin-bottom: 6%;
+        padding-top: 7%;
+    }
+    
+    #third-part h2{
+        font-size: 36px;
+        font-weight: 600;
+    }
+
+    .limit-part{
+        width: 100%;
+        padding-left: 56px;
+        padding-right: 70px;
+        margin-top: 50px;
+    }
+    .limit-part img{
+        width: 400px;
+        height: 400px;
+        margin-bottom: 50px;
+        margin-top: 30px;
+        
+    }
+    
+
+
+    /* <!-- fourth part start --> */
+
+     
+
+      .fourth-part{
+        width: 100%;
+        padding-left: 56px;
+        padding-right: 70px;
+        padding-top: 70px;
+      }
+      .fourth-part h2{
+        font-size: 36px;
+        font-weight: 600;
+      }
+
+      .image-3 img{
+        width: 340px;
+        height: 340px;
+        margin: 30px 40px 60px 170px;
+      }
+
+
+
+
+
+
+
+   
+        /* bonus part add */
+    
+
+    .contact-form{
+        width: 340px;
+        height: 300px;
+        margin: -20px 500px 20px 480px;
+        padding-top: 20px;
+        padding-left: 36px;
+        box-shadow:2px 2px 8px gray;
+        border-radius: 15px 15px 15px 15px;
+        background: lightslategray;
+        
+    }
+   
+    
+    .socialnumber{
+        width: 30%;
+        text-align: center;
+        line-height: 60%;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding-left: 2%;
+
+        
+    }
+    #borderlast{
+        box-shadow: 1px 1px 8px 1px grey;
+        margin-left: 3%;
+        margin-right: 3%;
+        border-radius: 15px 15px 15px 15px gray;
+    }
+    
+    .fbpage{
+        text-align: center;
+        margin-top: 5%;
+    }
+
+    .page{
+        text-decoration: dimgray;;
+        color:indianred;
+        font-weight: 760;
+    }
+    
+    #safe{
+        margin-bottom: 30px;
+    }
+
+    /* ******************* footer************/
+
+    footer{ 
+      
+        text-align: center;
+        margin-top: 10px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        background-color: black;
+        color: blanchedalmond;
+        line-height: 50%;
+        }
+        .footer1{
+            font-family: 'Lobster';
+            font-weight: 700;
+            font-size: 30px;
+            color: chocolate;
+        }
+        .footer2{
+            font-family: 'Yeseva One';
+            color: dimgrey;
+            font-weight: 700;
+            font-size: 30px;
+        }
+        .copyright{
+            font-size: 9px;
+            padding-top: 23px;
+        }
